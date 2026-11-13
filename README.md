@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="raven/raven.gif" width="256" alt="My raven, redrawn every night from my GitHub activity" />
+  <img src="raven/raven.gif" width="400" alt="My raven, redrawn every night from my GitHub activity" />
 </p>
 
 <h1 align="center">Ylli Berisha</h1>
